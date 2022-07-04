@@ -33,7 +33,7 @@
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Navbar Start -->
-    <!-- <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
         <a href="index.php" class="navbar-brand ml-lg-3">
             <h1 class="m-0 display-5"><span class="text-danger">My </span>Portofolio</h1>
         </a>
@@ -50,7 +50,7 @@
                 <a href="#contact" class="nav-item nav-link">Contact</a>
             </div>
         </div>
-    </nav> -->
+    </nav>
     <!-- Navbar End -->
 
     <!-- Header Start -->
