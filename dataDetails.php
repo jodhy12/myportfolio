@@ -12,7 +12,7 @@ $projects = [
             [
                 'id' => 1,
                 'img_title' => 'Login Page',
-                'img_path' => 'img/project01/login.png',
+                'img_path' => 'img/project01/log-in.png',
                 'description' => "This is view of login page before enter dashboard."
             ],
             [
@@ -30,7 +30,7 @@ $projects = [
             [
                 'id' => 4,
                 'img_title' => 'Checkout Cart List',
-                'img_path' => 'img/project01/checkout.png',
+                'img_path' => 'img/project01/check-out.png',
                 'description' => "This is view of Checkout Cart List. Before user confirm the transaction, user must be input the name first, and if the customer is a member, user must be choose the member first then confirm the transaction."
             ],
             [
@@ -124,7 +124,7 @@ $projects = [
             [
                 'id' => 1,
                 'img_title' => 'Index Page',
-                'img_path' => 'img/project02/index.png',
+                'img_path' => 'img/project02/home.png',
                 'description' => "This is view of index page. In index, we can filter the list, edit, delete, and completed the list."
             ],
             [
