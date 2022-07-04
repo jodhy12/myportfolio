@@ -95,7 +95,7 @@ $projects = [
             ],
             [
                 'id' => 15,
-                'img_title' => 'Transcaction All',
+                'img_title' => 'Transaction All',
                 'img_path' => 'img/project01/all-transactions.png',
                 'description' => "This is view of transaction for except employee. Here, this user can see all of transaction history."
             ],
