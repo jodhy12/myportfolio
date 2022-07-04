@@ -54,7 +54,7 @@
     <!-- Navbar End -->
 
     <!-- Header Start -->
-    <div class="container-fluid bg-secondary d-flex align-items-center" id="home" style="min-height: 100vh;">
+    <div class="container-fluid bg-secondary d-flex align-items-center pb-5" id="home" style="min-height: 100vh;">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-7 text-center text-lg-left">
