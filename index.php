@@ -159,14 +159,14 @@
                     <h3 class="mb-4">My Education</h3>
                     <div class="border-left border-danger pt-2 pl-4 ml-2">
                         <div class="position-relative ex-me mb-4">
-                            <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
-                            <h5 class="font-weight-bold mb-1">High School of Computer and Network Engineering</h5>
-                            <p class="mb-2"><strong>SMK Swasta Teladan Medan</strong> | <small>2010 - 2013</small></p>
-                        </div>
-                        <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                             <h5 class="font-weight-bold mb-1">Bachelor of Technical Information</h5>
                             <p class="mb-2"><strong>STMIK Mikroskil</strong> | <small>2013 - 2019</small></p>
+                        </div>
+                        <div class="position-relative ex-me mb-4">
+                            <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
+                            <h5 class="font-weight-bold mb-1">High School of Computer and Network Engineering</h5>
+                            <p class="mb-2"><strong>SMK Swasta Teladan Medan</strong> | <small>2010 - 2013</small></p>
                         </div>
                     </div>
                 </div>

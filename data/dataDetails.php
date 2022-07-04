@@ -1,6 +1,7 @@
 <?php
 
 $projects = [
+    //Project Point Of Sale
     (object)
     [
         'id' => 1,
@@ -114,6 +115,7 @@ $projects = [
         ],
 
     ],
+    //Project To Do List
     (object)
     [
         'id' => 2,
