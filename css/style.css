@@ -323,4 +323,7 @@ img.img-fluid {
   .display-3 {
     font-size: 3.5rem;
   }
+  #lets-talk {
+    margin-right: 0 !important;
+  }
 }
