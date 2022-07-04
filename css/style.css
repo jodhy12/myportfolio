@@ -238,9 +238,6 @@ h1,h2,h3,h4,h5,h6,p{
   margin: 20px;
 
 }
-.testimonial-carousel .text-center h4{
-
-}
 
 .testimonial-carousel .owl-dots {
   margin-top: 25px;
@@ -319,5 +316,11 @@ img.img-fluid {
   }
   h1.position-absolute.text-uppercase.text-danger{
     font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 430px){
+  .display-3 {
+    font-size: 3.5rem;
   }
 }

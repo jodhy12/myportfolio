@@ -27,7 +27,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 
-<?php include_once('dataIndex.php');
+<?php include_once('data/dataIndex.php');
 
 ?>
 

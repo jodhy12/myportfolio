@@ -28,7 +28,7 @@
 </head>
 
 <?php
-include_once('dataDetails.php');
+include_once('data/dataDetails.php');
 $id = $_GET['id'];
 
 foreach ($projects as $p) {
