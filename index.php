@@ -63,7 +63,7 @@
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div class="typed-text d-none">A Junior Web Developer</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                        <a href="#" id="lets-talk" class="btn btn-outline-danger text-white mr-4">Download CV</a>
+                        <a href="https://drive.google.com/u/0/uc?id=1NpomW3t29Fe6HTDY7_KFQyl9LLvbCNdD&export=download" id="lets-talk" class="btn btn-outline-danger text-white mr-4">Download CV</a>
 
                         <a href="#contact" id="lets-talk" class="btn btn-outline-danger text-white d-none d-sm-block">Let's Talk</a>
                     </div>
