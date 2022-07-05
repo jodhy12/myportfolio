@@ -23,7 +23,6 @@ $(function () {
                     subject: subject,
                     message: message
                 },
-                cache: false,
                 success: function () {
                     $('#success').html("<div class='alert alert-success'>");
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
@@ -34,8 +33,7 @@ $(function () {
                             .append('</div>');
                     $('#contactForm').trigger("reset");
                 },
-                error: function (resp) {
-                    console.log(resp)
+                error: function () {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                             .append("</button>");

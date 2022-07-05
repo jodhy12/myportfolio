@@ -280,10 +280,30 @@
                 <h1 class="position-absolute text-uppercase text-danger">Contact Me</h1>
             </div>
             <div class="row justify-content-center pt-2">
-                <div class="col-lg-8">
+                <div class="col-lg-4 pb-4">
+                    <div class="col-lg-11">
+                        <div class="border border-danger" style="border-radius: 30px;">
+                            <div class="d-flex flex-column align-items-center">
+                                <div class="py-2 h5 m-0">My Whatsapp</div>
+                                <div class="py-2 h6 m-0">
+                                    <a style="text-decoration: none;" href="https://api.whatsapp.com/send?phone=6282230202462&text=Hello+there" target="_blank">
+                                        <div class="row align-items-center" style="gap:5px">
+                                            <i class="fab fa-whatsapp fa-2x"></i>
+                                            <span>082230202462</span>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="or text-uppercase text-danger font-weight-bold h5 pb-3">
+                    <span>OR</span>
+                </div>
+                <div class="col-lg-8 pb-3">
                     <div class="contact-form text-center">
                         <div id="success"></div>
-                        <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                        <form name="sentMessage" id="contactForm" novalidate="novalidate" method="POST">
                             <div class="form-row">
                                 <div class="control-group col-sm-6">
                                     <input type="text" class="form-control p-4" id="name" placeholder="Your Name" required="required" data-validation-required-message="Please enter your name" />
@@ -309,6 +329,7 @@
                         </form>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
