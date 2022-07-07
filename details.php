@@ -73,7 +73,7 @@ $project = (object)$project;
                                 <h5 class="text-center text-danger"><?php echo $img->id ?>. <?php echo $img->img_title ?></h5>
                                 <div class="position-relative overflow-hidden mb-2 rounded">
                                     <a href="#" class="pop">
-                                        <img class="img-fluid w-100" src="<?php echo $img->img_path ?>" alt="<?php echo $img->img_path ?>">
+                                        <img class="img-fluid w-100" src="<?php echo $img->img_path ?>" alt="<?php echo $img->title ?>">
                                     </a>
                                     <div class="row justify-content-center m-0">
                                         <div class="portofolio-title w-100">

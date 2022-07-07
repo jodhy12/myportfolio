@@ -61,9 +61,9 @@
                     <h3 class="text-white font-weight-normal mb-3">Hello, my name</h3>
                     <h1 class="display-3 text-uppercase text-danger mb-2" style="-webkit-text-stroke: 4px #ffffff;">Jodhy Hermawan Nur</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">A Junior Web Developer</div>
+                    <div class="typed-text d-none">Junior Web Developer</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                        <a href="https://drive.google.com/u/0/uc?id=1NpomW3t29Fe6HTDY7_KFQyl9LLvbCNdD&export=download" id="lets-talk" class="btn btn-outline-danger text-white mr-4">Download CV</a>
+                        <a href="https://drive.google.com/u/0/uc?id=1pB6l83595gcO9HotjGuXSrbDBI1Vx3Bf&export=download" id="lets-talk" class="btn btn-outline-danger text-white mr-4">Download CV</a>
 
                         <a href="#contact" id="lets-talk" class="btn btn-outline-danger text-white d-none d-sm-block">Let's Talk</a>
                     </div>
@@ -85,7 +85,8 @@
                 </div>
                 <div class="col-md-7">
                     <h3 class="mb-4">A Junior Web Developer</h3>
-                    <p class="text-justify">A Junior Web Developer. I was study since Jan 2022. The first time i study is used C# and VueJs. after that, i joined a training at Eduwork.id. There i studied more about Web Developer. I used Laravel, JQuery, Ajax, VueJs, and Bootstrap. I have experience about create a point of sale web. I had project website Point of Sale based on Laravel Framework and ToDo List based on VueJs</p>
+                    <p class="text-justify">I started learning about web developing from Jan 2022. The first time I study about it, I was using C# and VueJs. After that, I joined a training at Eduwork.id where I study more about web developing. I can use Lavarel, JQuery, Ajax, VueJs, and Bootstrap. I also have experienced creating "Point of Sale" web. Futhermore, I had project website "Point of Sale" based on Laravel Framework and "ToDo List" based on VueJs.
+                    </p>
                 </div>
             </div>
         </div>
@@ -96,7 +97,7 @@
     <div class="container-fluid py-5" id="skill" style="border-bottom:3px solid #fff; box-shadow: 0px 3px 5px 2px rgb(0 0 0 / 30%);">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center pb-5 pt-3">
-                <h1 class="position-absolute text-uppercase text-danger">My Skills</h1>
+                <h1 class="position-absolute text-uppercase text-danger">Skills</h1>
             </div>
             <div class="row pt-3">
                 <div class="row align-items-center pb-3">
@@ -156,7 +157,7 @@
             </div>
             <div class="row pb-3">
                 <div class="col-lg-6">
-                    <h3 class="mb-4">My Education</h3>
+                    <h3 class="mb-4">Education</h3>
                     <div class="border-left border-danger pt-2 pl-4 ml-2">
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
@@ -165,13 +166,13 @@
                         </div>
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
-                            <h5 class="font-weight-bold mb-1">High School of Computer and Network Engineering</h5>
+                            <h5 class="font-weight-bold mb-1">Vocational High School Majoring in Computer and Network Engineering</h5>
                             <p class="mb-2"><strong>SMK Swasta Teladan Medan</strong> | <small>2010 - 2013</small></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h3 class="mb-4">My Experience</h3>
+                    <h3 class="mb-4">Experience</h3>
                     <div class="border-left border-danger pt-2 pl-4 ml-2">
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-danger position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
@@ -182,7 +183,7 @@
                                     <p class="mb-1">Learned to create a point of sale web use Laravel Framework, Jquery, Vue.Js, MySql, and Bootsrap.</p>
                                 </li>
                                 <li>
-                                    <p>Learned how to problem solving.</p>
+                                    <p>Learned how to do problem solving.</p>
                                 </li>
                             </ul>
                         </div>
@@ -192,10 +193,10 @@
                             <p class="mb-2"><strong>PT Jasamarga Tollroad Operator</strong> | <small> Nov 2018 - Nov 2021</small></p>
                             <ul>
                                 <li>
-                                    <p class="mb-1">Responsible for operational employees task schedule.</p>
+                                    <p class="mb-1">Responsible in making schedule of operational employee.</p>
                                 </li>
                                 <li>
-                                    <p class="mb-1">Implement good coordination with work partners.</p>
+                                    <p class="mb-1">Implementing good coordination with working partners.</p>
                                 </li>
                                 <li>
                                     <p>Responsible for daily, monthly, or yearly report.</p>
@@ -208,13 +209,13 @@
                             <p class="mb-2"><strong>PT Jasamarga Tollroad Operator</strong> | <small> Nov 2017 - Oct 2018</small></p>
                             <ul>
                                 <li>
-                                    <p class="mb-1">Responsible for transactions at toll gates based on shift time.</p>
+                                    <p class="mb-1">Responsible for transactions at tool gate based on shift.</p>
                                 </li>
                                 <li>
-                                    <p class="mb-1">Resolve complaints from customers.</p>
+                                    <p class="mb-1">Resolving complaints from customers.</p>
                                 </li>
                                 <li>
-                                    <p>Create report after changing shifts.</p>
+                                    <p>Making report after changing shift.</p>
                                 </li>
                             </ul>
                         </div>
@@ -229,7 +230,7 @@
     <div class="container-fluid pt-5" id="portofolio" style="border-bottom:3px solid #fff; box-shadow: 0px 3px 5px 2px rgb(0 0 0 / 30%);">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center pb-5 pt-3">
-                <h1 class="position-absolute text-uppercase text-danger">My Portofolio</h1>
+                <h1 class="position-absolute text-uppercase text-danger">Portofolio</h1>
             </div>
             <div class="row portofolio-container justify-content-center pb-3">
                 <?php foreach ($projects as $project) { ?>
