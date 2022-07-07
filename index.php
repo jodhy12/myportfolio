@@ -124,7 +124,7 @@
                     <div class="col-md-4 text-center pb-3">
                         <div class="d-flex flex-column align-items-center skill-box">
                             <i class="fab fa-2x fa-js service-icon text-warning"></i>
-                            <h4 class="font-weight-bold m-0">JavaScript</h4>
+                            <h4 class="font-weight-bold m-0">Javascript</h4>
                             <p>Intermediate</p>
                         </div>
                     </div>
